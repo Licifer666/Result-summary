@@ -6,7 +6,7 @@
 
 ### Screenshot
 
-[Link](.Screenshot/Desktop_size.png)
+[Link]([.Screenshot/Desktop_size.png](https://github.com/Licifer666/Result-summary/blob/afc8599aa013fd246ef4d46f464c5d6bdab6e7fb/Screenshot/Desktop_size.png))
 
 
 ### Links
