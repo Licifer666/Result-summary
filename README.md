@@ -6,7 +6,7 @@
 
 ### Screenshot
 
-[Link](./Screenshot/screenshot-127.0.0.1_5500-2023.07.18-15_24_35.png)
+[Link](.Screenshot/Desktop_size.png)
 
 
 ### Links
@@ -38,6 +38,3 @@
 
 - Frontend Mentor - [@Licifer666](https://www.frontendmentor.io/profile/Licifer666)
 
-## overview
-
-- I used Basic HTML, CSS, and Bootstrap Card method for card layout and design I do not use CSS Media Query for Responsiveness
