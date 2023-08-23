@@ -6,7 +6,8 @@
 
 ### Screenshot
 
-[Link](Screenshot/Desktop_size.png)
+![Desktop_size](https://github.com/Licifer666/Result-summary/assets/65387092/716891a0-7707-4443-a71d-c16e514bb734)
+
 
 
 ### Links
