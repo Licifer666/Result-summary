@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- displays site properly based on user's device -->
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@500;700;800&family=Outfit:wght@400;700&display=swap"
+    rel="stylesheet">
+
+  <link rel="stylesheet" href="./style.css">
+
+  <link rel="icon" type="image/png" sizes="32x32" href="./assets/images/favicon-32x32.png">
+
+  <title>Frontend Mentor | Results summary component</title>
+
+</head>
+
+<body>
+  <main>
+    <div class="container">
+      <div class="result">
+        <h1 class="title">Your Result</h1>
+        <div class="score">
+          <span class="lg-num">76</span>
+          <span class="sm-num">of 100</span>
+        </div>
+        <div class="text-box">
+          <p class="rank">Great</p>
+          <p> Your scored higher than 65% of the people who have taken these tests.</p>
+        </div>
+      </div>
+      <div class="summary">
+        <h1 class="title">Summary</h1>
+        <ul>
+          <li class="score-reaction">
+            <img src="./assets/images/icon-reaction.svg" alt="reaction-logo">
+            <span class="category">Reaction</span>
+            <span class="num-bold">80</span>
+            <span class="num-light"> / 100</span>
+          </li>
+          <li class="score-memory">
+            <img src="./assets/images/icon-memory.svg" alt="memory-logo">
+            <span class="category">Memory</span>
+            <span class="num-bold">92</span>
+            <span class="num-light"> / 100</span>
+          </li>
+          <li class="score-verbal">
+            <img src="./assets/images/icon-verbal.svg" alt="verbal-logo">
+            <span class="category">Verbal</span>
+            <span class="num-bold">61</span>
+            <span class="num-light"> / 100</span>
+          </li>
+          <li class="score-visual">
+            <img src="./assets/images/icon-visual.svg" alt="visual-logo">
+            <span class="category">Visual</span>
+            <span class="num-bold">72</span>
+            <span class="num-light"> / 100</span>
+          </li>
+        </ul>
+        <button>Continue</button>
+      </div>
+    </div>
+  </main>
+</body>
+
+</html>
